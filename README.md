@@ -6,8 +6,7 @@ Skills: Spring Boot / Angular / Ionic / SQL / Redis
 
 - 🔭 I’m currently working on Spring Boot, Angular
 - 📫 My Resume : https://drive.google.com/file/d/1txaPJi7gMCHq6LckU0CuylovaPaYPLhN/view?usp=sharing
-- 📫 How to reach me: fttushar1997@gmail.com 
-
+- 📫 How to reach me: farhantanvir.2340.csedu@gmail.com
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/farhantanvirtushar)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/farhan-tanvir-bb64b014b//)  
 
